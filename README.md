@@ -2,7 +2,7 @@
 
 Find the best place to take special photos. You can search the place from area and category. 
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/99185540/177044477-093b7c76-63a1-4aac-8ea3-2c94ce0cf6b9.png">　<img width="200" alt="image" src="https://user-images.githubusercontent.com/99185540/177044581-2fa32856-62f1-4a1c-a476-3d1b95d74675.png">　<img width="200" alt="image" src="https://user-images.githubusercontent.com/99185540/177044640-3ac4d846-af15-4380-a9ad-66ae7ca144e6.png">　<img width="200" alt="image" src="https://user-images.githubusercontent.com/99185540/177044678-955a3204-0114-4987-b2b4-d055d68c7ae9.png">
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/99185540/177044477-093b7c76-63a1-4aac-8ea3-2c94ce0cf6b9.png">　<img width="180" alt="image" src="https://user-images.githubusercontent.com/99185540/177044581-2fa32856-62f1-4a1c-a476-3d1b95d74675.png">　<img width="180" alt="image" src="https://user-images.githubusercontent.com/99185540/177044640-3ac4d846-af15-4380-a9ad-66ae7ca144e6.png">　<img width="180" alt="image" src="https://user-images.githubusercontent.com/99185540/177044678-955a3204-0114-4987-b2b4-d055d68c7ae9.png">
 
 App home: https://photo-ronin.herokuapp.com/
    
